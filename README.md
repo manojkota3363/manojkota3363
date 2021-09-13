@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...JAVA FULL STACK WEB DEVELOPMENT 
+- 🔭 I’m currently working on ...learning java,Data Base,Web applications development
 - 🌱 I’m currently learning ...Applied computer science
 - 👯 I’m looking to collaborate on ...North West Missouri
 - 🤔 I’m looking for help with ...My brother
